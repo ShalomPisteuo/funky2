@@ -1,0 +1,14 @@
+uuid: 381d7256-f3c8-442b-b54c-1a11785b5d19
+name: funky2
+mail: shalompisteuo@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
